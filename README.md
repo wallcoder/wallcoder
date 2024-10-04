@@ -1,3 +1,6 @@
+
+##👋Hi, I'm Biaka!
+
 🔦Self-taught developer <br/>
 🔖Studying Information Technology at Mizoram University, India
 🪴Currently learning React Native
