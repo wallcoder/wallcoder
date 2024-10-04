@@ -1,5 +1,5 @@
 
-##👋Hi, I'm Biaka!
+#👋Hi, I'm Biaka!
 
 🔦Self-taught developer <br/>
 🔖Studying Information Technology at Mizoram University, India
